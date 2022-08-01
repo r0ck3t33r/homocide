@@ -7,7 +7,7 @@
 # PINK HEARTZ
 # UTOPIA
 
-# MOCK CCG ID_CARD STEALER WRITTEN BY 
+# MOCK CCG ID CARD STEALER WRITTEN BY r0ck3t33r
 
 find . -name "ID_CARD.pdf" -printf '%f\n' 2>/dev/null > data.txt
 
